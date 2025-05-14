@@ -194,13 +194,13 @@ span {
 .foot-panel2 {
     background-color: #222f3d;
     color: white;
-    height: 500px;
+    height: 340px;
     display: flex;
     justify-content: space-evenly;
 
 }
 ul {
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 .foot-panel2 a {
@@ -226,4 +226,23 @@ ul {
     background-size: cover;
     height: 50px;
     width: 100px;
+}
+.foot-panel4 {
+    background-color: #0f1111;
+    color: white;
+    height: 80px;
+    font-size: 0.7rem;
+    text-align: center;
+}
+.pages {
+    padding-top: 25px;
+}
+.copyright {
+     padding-top: 5px;
+}
+ul p {
+    font-weight: 700;
+}
+ul {
+    padding-left: 0;
 }
